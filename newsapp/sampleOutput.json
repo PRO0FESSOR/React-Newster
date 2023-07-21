@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Kara Scannell",
+        "title": "Judge allows E. Jean Carroll to amend her defamation lawsuit to seek more damages against Trump | CNN Politics",
+        "description": "A federal judge will allow E. Jean Carroll to amend her original defamation lawsuit against former President Donald Trump to include comments he made at a CNN town hall.",
+        "url": "https://www.cnn.com/2023/06/13/politics/e-jean-carroll-damages-trump-cnn-town-hall/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613132541-e-jean-carroll-050823.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-06-13T21:15:46Z",
+        "content": "A federal judge will allow E. Jean Carroll to amend her original defamation lawsuit against former President Donald Trump to include comments he made at a CNN town hall.\r\nCarroll, a former magazine c… [+1984 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Yasmeen Serhan",
+        "title": "What to Know About the Scandal Upending Scottish Politics",
+        "description": "Following former Scottish leader Nicola Sturgeon's arrest, here's what you need to known about the scandal upending Scottish politics.",
+        "url": "http://time.com/6286527/nicola-sturgeon-scotland-scandal-snp/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/06/sturgeon-snp-1.jpg?quality=85&crop=0px%2C295px%2C2400px%2C1257px&resize=1200%2C628&strip",
+        "publishedAt": "2023-06-12T18:23:13Z",
+        "content": "When Scotland’s longtime leader Nicola Sturgeon announced her shock resignation in February, no one would have guessed that just four months later, she would be pictured in the back of a police car. … [+6266 chars]"
+      },
+      {
+        "source": {
+          "id": "newsweek",
+          "name": "Newsweek"
+        },
+        "author": "Mark Davis",
+        "title": "Newsweek",
+        "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+        "url": "https://www.newsweek.com/",
+        "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+        "publishedAt": "2023-03-01T12:07:28.8517009Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Politics Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/politics/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:27.3936289Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+        "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+        "publishedAt": "2019-11-13T04:41:00Z",
+        "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+      }
+    ]
+  }
